@@ -1,0 +1,10 @@
+5.[[:space:]]Branches.mp4 filter=lfs diff=lfs merge=lfs -text
+7.[[:space:]]Tagging.mp4 filter=lfs diff=lfs merge=lfs -text
+8.[[:space:]]Merging.mp4 filter=lfs diff=lfs merge=lfs -text
+1.[[:space:]]Setting[[:space:]]Up[[:space:]]Git[[:space:]]&[[:space:]]Configuring[[:space:]]Git.mp4 filter=lfs diff=lfs merge=lfs -text
+2.[[:space:]]Three[[:space:]]Stage[[:space:]]Thinking,[[:space:]]The[[:space:]]Git[[:space:]]File[[:space:]]Workflow[[:space:]]&[[:space:]]Speed.mp4 filter=lfs diff=lfs merge=lfs -text
+4.[[:space:]]Command[[:space:]]Composition,[[:space:]]Storage[[:space:]]And[[:space:]]Hashes.mp4 filter=lfs diff=lfs merge=lfs -text
+6.[[:space:]]Remotes.mp4 filter=lfs diff=lfs merge=lfs -text
+9.[[:space:]]Rebasing.mp4 filter=lfs diff=lfs merge=lfs -text
+10.[[:space:]]Undo[[:space:]]&[[:space:]]Bonus[[:space:]]Tips.mp4 filter=lfs diff=lfs merge=lfs -text
+3.[[:space:]]Cloning[[:space:]]Repositories.mp4 filter=lfs diff=lfs merge=lfs -text
